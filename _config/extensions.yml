@@ -1,0 +1,6 @@
+---
+Name: userforms-faqsearchfield-extensions
+---
+UserDefinedForm_Controller:
+  extensions:
+    - UserDefinedForm_ControllerFAQExtension

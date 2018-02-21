@@ -1,0 +1,24 @@
+{
+    "name": "benmanu/silverstripe-userforms-faqsearchfield",
+    "description": "FAQ search field for SilverStripe userforms module",
+    "type": "silverstripe-module",
+    "homepage": "http://github.com/benmanu/silverstripe-userforms-faqsearchfield",
+    "keywords": ["silverstripe", "autocomplete", "form", "field"],
+    "license": "BSD-3-Clause",
+    "authors": [
+      {"name": "Ben Manu","email": "ben@silverstripe.com"},
+      {"name": "Tim Kung","email": "tkung@silverstripe.com"}
+    ],
+    "support": {
+      "issues": "http://github.com/benmanu/silverstripe-userforms-faqsearchfield/issues"
+    },
+    "require": {
+      "silverstripe/cms": "~3.1",
+      "silverstripe/framework": "~3.1",
+      "silverstripe/faq": "1.1.0",
+      "silverstripe/userforms": "4.2.6 as 4.2.2"
+    },
+    "extra": {
+      "installer-name": "userforms-faqsearchfield"
+    }
+  }
