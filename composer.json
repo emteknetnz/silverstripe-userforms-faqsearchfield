@@ -16,7 +16,7 @@
       "silverstripe/cms": "~3.1",
       "silverstripe/framework": "~3.1",
       "silverstripe/faq": "1.1.0",
-      "silverstripe/userforms": "4.2.6 as 4.2.2"
+      "silverstripe/userforms": "^4.5.5"
     },
     "extra": {
       "installer-name": "userforms-faqsearchfield"
